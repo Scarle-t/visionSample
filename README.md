@@ -1,3 +1,10 @@
+# Getting Started
+- Clone this repo, change the file ```VisionExample.xcodeproj.zip``` to ```VisionExample.xcodeproj```
+- setup Xcode, cocoapods
+- run ```pod install``` to initialize the project
+- then open ```.xcworkspace``` file with XCode (Not the ```.xcodeproj``` file)
+
+
 # ML Kit Vision Quickstart Sample App
 
 ## Introduction
